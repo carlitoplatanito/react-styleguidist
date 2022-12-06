@@ -42,7 +42,7 @@
     "css-loader": "0.25.0",
     "entities": "1.1.1",
     "es6-object-assign": "^1.0.3",
-    "express": "4.14.0",
+    "express": "4.17.3",
     "findup": "0.1.5",
     "glob": "7.1.1",
     "highlight.js": "10.4.1",
